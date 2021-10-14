@@ -19,6 +19,7 @@ public class IfElseAge {
             System.out.println("ไม่พบช่วงอายุ");
         }
         System.out.println("End of Program");
+        kb.close();
     }
 
 }
